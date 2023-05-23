@@ -1,0 +1,3 @@
+﻿  Ultimo juego.cpp
+D:\1DAW\M5\barcos\Ultimo juego\Ultimo juego\Ultimo juego.cpp(286,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Ultimo juego.vcxproj -> D:\1DAW\M5\barcos\Ultimo juego\x64\Debug\Ultimo juego.exe
